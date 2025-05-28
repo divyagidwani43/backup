@@ -1,0 +1,176 @@
+
+✅ Control Flow
+if, else, else if
+
+switch
+
+Ternary Operator
+
+✅ Loops
+for, while, do...while
+
+break & continue
+
+✅ Functions
+Function Declaration
+
+Function Expression
+
+Arrow Functions
+
+Parameters & Arguments
+
+Return Keyword
+
+Callback Functions
+
+✅ Arrays
+Creating Arrays
+
+Array Methods:
+
+push, pop, shift, unshift
+
+slice, splice
+
+map, filter, reduce, find, forEach, some, every
+
+includes, indexOf
+
+✅ Objects
+Object Literals
+
+Dot vs Bracket Notation
+
+Adding/Removing Properties
+
+Looping with for...in
+
+Object.keys(), Object.values(), Object.entries()
+
+✅ Strings
+String Methods:
+
+length, toUpperCase(), toLowerCase(), trim()
+
+slice(), substring(), replace(), includes(), indexOf(), split()
+
+🟡 Intermediate Level
+✅ Scope
+Block Scope vs Function Scope
+
+Global vs Local Scope
+
+✅ Hoisting
+Variables & Function Hoisting
+
+Temporal Dead Zone
+
+✅ Closures
+Inner functions accessing outer scope
+
+Use cases like private variables
+
+✅ this Keyword
+Global, Object, Class, and Event context
+
+call(), apply(), bind()
+
+✅ Destructuring
+Array Destructuring
+
+Object Destructuring
+
+✅ Spread & Rest Operators
+✅ Optional Chaining (?.)
+✅ Nullish Coalescing (??)
+✅ Arrays of Objects
+Sorting
+
+Filtering
+
+Mapping
+
+✅ IIFE (Immediately Invoked Function Expressions)
+✅ DOM Manipulation
+Selecting elements (getElementById, querySelector)
+
+Modifying text, classes, attributes
+
+Creating/removing elements
+
+Event Listeners (click, submit, input, etc.)
+
+🟠 Advanced Level
+✅ Asynchronous JavaScript
+Callback Functions
+
+Promises
+
+async/await
+
+.then() / .catch()
+
+Error Handling in async code
+
+Fetch API & using APIs
+
+✅ Event Loop
+Call Stack
+
+Event Queue
+
+Microtasks (Promises) vs Macrotasks (setTimeout)
+
+✅ Classes
+Constructor Functions
+
+class Syntax
+
+Inheritance (extends, super)
+
+Public vs Private fields (#)
+
+✅ Prototypes & Inheritance
+Prototype Chain
+
+__proto__ and Object.create()
+
+✅ Modules
+ES6 import / export
+
+Default vs Named Exports
+
+✅ Debounce & Throttle (Frontend performance)
+🔴 Expert Level
+✅ JavaScript Design Patterns
+Module Pattern
+
+Factory Pattern
+
+Singleton
+
+Observer
+
+✅ Memory Management
+Garbage Collection
+
+Avoiding memory leaks
+
+✅ Web APIs
+localStorage, sessionStorage
+
+setTimeout, setInterval
+
+requestAnimationFrame
+
+Geolocation API
+
+Clipboard API
+
+✅ Advanced Error Handling
+Custom Errors
+
+try...catch...finally
+
+Throwing your own errors
